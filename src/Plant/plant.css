@@ -1,0 +1,11 @@
+.plant{
+    border:2px solid red;
+    border-radius: 10px;
+    margin:20px;
+    padding: 10px;
+    text-align: center;
+}
+.plant img{
+    width: 200px;
+   
+}
